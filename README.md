@@ -39,6 +39,7 @@
 
     <!-- HERO -->
     <section id="home" class="hero">
+        <img src="images/ujjwala.jpg" alt="Ujjwala Sanaye" class="profile-pic">
         <h1>Hi, I'm <span>Ujjwala Sanaye</span></h1>
         <p>BMS Student | Aspiring Web Developer</p>
         <a href="#contact" class="btn">Contact Me</a>
@@ -233,6 +234,15 @@ footer {
     text-align: center;
     padding: 15px;
 }
+.profile-pic {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid white;
+    margin-bottom: 20px;
+}
+
 
 </html>
 
