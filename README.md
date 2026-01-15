@@ -96,6 +96,8 @@
     </footer>
 
 </body>
+    <img src="images/photo.jpg" alt="Ujjwala Sanaye" class="profile-pic">
+    <h1>Ujjwala Sanaye</h1>
 
 * {
     margin: 0;
