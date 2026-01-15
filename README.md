@@ -39,7 +39,7 @@
 
     <!-- HERO -->
     <section id="home" class="hero">
-        <img src="images/ujjwala.jpg" alt="Ujjwala Sanaye" class="profile-pic">
+        <img src="images/photo.jpg" alt="Ujjwala Sanaye" class="profile-pic">
         <h1>Hi, I'm <span>Ujjwala Sanaye</span></h1>
         <p>BMS Student | Aspiring Web Developer</p>
         <a href="#contact" class="btn">Contact Me</a>
